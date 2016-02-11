@@ -21,7 +21,11 @@ I've recently joined the party, should note something about why and what I think
 #Facts/beliefs 
 
 * The Lib Dems are the mainstream party I feel closest to (0.9)
-* The EU is in net harmful (0.8)
+* The EU is in net harmful (0.9)
 * There ought to be fewer people in prison than the present (0.8)
 * I would be a good MP (0.4)
-* I will become an MP (0.1)
+* I will become an MP (0.05)
+* I will become a councilor (0.01)
+* Political campaigning is pleasant enough, though not positivly fun. (0.8)
+* Local politics is stupid, and I can't be doing with it. (0.8)
+
